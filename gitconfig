@@ -60,3 +60,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = harrisonjanssen93@gmail.com
+	name = Harrison Janssen
